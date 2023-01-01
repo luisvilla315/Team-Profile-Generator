@@ -4,7 +4,11 @@
 to have quick access to their emails and GitHub profiles
 
 
-
+# Installation
+git clone the repository
+Open terminal and run the command npm install
+Run the command node index.js
+Your test.html will be created after prompts are filled out
 
 
 # Walk through Video
