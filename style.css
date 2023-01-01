@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: tahoma;
+    height: 100vh;
+    background-image: url(https://picsum.photos/g/3000/2000);
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+  }
+
+header {
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 90px;
+    color: blanchedalmond;
+    padding: 30px;
+    background: url(https://raw.githubusercontent.com/hudsonmarinho/header-and-footer-parallax-effect/master/assets/images/bg-header.jpg) no-repeat 50% 50%;
+   
+}
+
+.container {
+    margin: 100px auto;
+    justify-content: space-evenly;
+    display: flex;
+}
